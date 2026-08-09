@@ -18,10 +18,11 @@ https://overthewire.org/wargames/natas/
 
 ```text
 .
-├── Level00.md
-├── Level01.md
-├── Level02.md
-├── ...
+├── Levels
+│   ├── Level00.md
+│   ├── Level01.md
+│   ├── Level02.md
+│   └── ...
 └── README.md
 ```
 
