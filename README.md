@@ -18,7 +18,7 @@ https://overthewire.org/wargames/natas/
 
 ```text
 .
-├── Levels
+├── Levels/
 │   ├── Level00.md
 │   ├── Level01.md
 │   ├── Level02.md
